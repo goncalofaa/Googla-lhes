@@ -1,6 +1,6 @@
 # Googla-lhes
 
-A aplicação a ser implementada permite usar uma desktop grid para a procura de palavras num grupo
+A aplicação permite usar uma desktop grid para a procura de palavras num grupo
 de noticias. Assim o utilizador deve correr um cliente que lhe permite inserir as palavras e iniciar a
 procura. O cliente deve enviar esta palavra ao servidor que irá criar tarefas que são executadas pelos
 workers. Cada tarefa consiste na pesquisa de uma expressão ou frase no texto de uma notícia. O
