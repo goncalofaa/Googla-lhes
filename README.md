@@ -15,3 +15,4 @@ Quando o servidor arrancar deve ler todas as notícias que fazem parte do corpus
 encontram-se num conjunto de ficheiros numa pasta que é passada ao servidor. O servidor ao receber
 um novo pedido de pesquisa vai criar um conjunto de tarefas, uma para cada notícia, que consiste
 em procurar a expressão numa das notícias. 
+
