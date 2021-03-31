@@ -1,4 +1,4 @@
-# Googla-lhes-2019
+# Googla-lhes
 Desktop grid wich allows to search words on a big set of news articles.
 In this project it is intended that a desktop grid be developed that allows the search for words in a large set of news.
 
